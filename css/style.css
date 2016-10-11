@@ -1,0 +1,23 @@
+.ourmenu{
+	/*height: 1000px;*/
+	padding: 15px;
+	background-color: grey;
+	color: #000;
+	text-align: justify;
+
+}
+.content-font{
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+.navbar-default .navbar-nav > li > a{
+	color: #000;
+	font-weight: 400;
+}
+
+@media (max-width: 767px) {
+	.bg_grey{
+	background-color: grey;
+}
+
+}
